@@ -10,12 +10,6 @@ pip install -r requirements.txt
 cp .env.example .env
 python app.py
 ```
-A API rodará em http://127.0.0.1:8000/
+A API rodará em http://127.0.0.1:8080/
 
 ## Endpoints principais
-- `POST /api/register`
-- `POST /api/login`
-- `POST /api/upload-photo`
-- `POST /api/generate-itinerary`
-- `GET /api/itinerary/<id>`
-- `POST /api/verify-biometric`
