@@ -1,0 +1,11 @@
+### Teste básico da API
+GET http://127.0.0.1:5050/
+
+### Teste para gerar roteiro
+POST http://127.0.0.1:5050/gerar-roteiro
+Content-Type: application/json
+
+{
+  "destino": "Concórdia, Santa Catarina",
+  "dias": 4
+}

@@ -1,0 +1,139 @@
+[
+  {
+    "itinerary_id": "13323379-065b-4df9-a1fa-917faf4e6acf",
+    "name": "Roteiro Cultural",
+    "description": "Um roteiro de um dia com museus e gastronomia",
+    "preferences": {
+      "interests": [
+        "museu",
+        "restaurante"
+      ]
+    },
+    "itinerary": {
+      "days": [
+        {
+          "day": 1,
+          "stops": [
+            {
+              "name": "Museu Central",
+              "lat": -23.561414,
+              "lon": -46.655881,
+              "time": "09:00",
+              "description": "Museu histórico para iniciar o dia.",
+              "restaurant": "Café do Museu",
+              "commerce": "Loja de lembranças"
+            },
+            {
+              "name": "Parque da Cidade",
+              "lat": -23.564123,
+              "lon": -46.652222,
+              "time": "12:00",
+              "description": "Passeio ao ar livre.",
+              "restaurant": "Restaurante do Parque",
+              "commerce": "Quiosque de suvenires"
+            }
+          ]
+        }
+      ]
+    },
+    "created_at": "2025-10-21T14:42:34.910495"
+  },
+  {
+    "itinerary_id": "6b60e8be-1975-4dbf-9e7f-3ccf96e51c72",
+    "name": "Roteiro Família",
+    "description": "Atividades para família e crianças",
+    "days": [
+      {
+        "day": 1,
+        "stops": [
+          {
+            "name": "Parque Infantil",
+            "lat": -23.5,
+            "lon": -46.6,
+            "time": "10:00",
+            "description": "Brincadeiras e diversão"
+          }
+        ]
+      }
+    ],
+    "created_at": "2025-10-21T14:42:50.813296"
+  },
+  {
+    "itinerary_id": "d87cd8f5-eed7-4ee3-b5b0-82a2a92f4d03",
+    "name": "Roteiro Concórdia",
+    "description": "Um roteiro de uma semana em concordia - sc",
+    "preferences": {
+      "interests": [
+        "museu",
+        "restaurante"
+      ]
+    },
+    "itinerary": {
+      "days": [
+        {
+          "day": 1,
+          "stops": [
+            {
+              "name": "Museu Central",
+              "lat": -23.561414,
+              "lon": -46.655881,
+              "time": "09:00",
+              "description": "Museu histórico para iniciar o dia.",
+              "restaurant": "Café do Museu",
+              "commerce": "Loja de lembranças"
+            },
+            {
+              "name": "Parque da Cidade",
+              "lat": -23.564123,
+              "lon": -46.652222,
+              "time": "12:00",
+              "description": "Passeio ao ar livre.",
+              "restaurant": "Restaurante do Parque",
+              "commerce": "Quiosque de suvenires"
+            }
+          ]
+        }
+      ]
+    },
+    "created_at": "2025-10-21T14:44:01.659122"
+  },
+  {
+    "itinerary_id": "da83a2b2-8945-4cab-a3be-0149c9784842",
+    "name": "Roteiro Concórdia",
+    "description": "Um roteiro de uma semana em concordia - sc",
+    "preferences": {
+      "interests": [
+        "museu",
+        "restaurante"
+      ]
+    },
+    "itinerary": {
+      "days": [
+        {
+          "day": 1,
+          "stops": [
+            {
+              "name": "Museu Central",
+              "lat": -23.561414,
+              "lon": -46.655881,
+              "time": "09:00",
+              "description": "Museu histórico para iniciar o dia.",
+              "restaurant": "Café do Museu",
+              "commerce": "Loja de lembranças"
+            },
+            {
+              "name": "Parque da Cidade",
+              "lat": -23.564123,
+              "lon": -46.652222,
+              "time": "12:00",
+              "description": "Passeio ao ar livre.",
+              "restaurant": "Restaurante do Parque",
+              "commerce": "Quiosque de suvenires"
+            }
+          ]
+        }
+      ]
+    },
+    "created_at": "2025-10-21T14:44:23.576651"
+  }
+]
