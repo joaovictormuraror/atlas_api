@@ -70,7 +70,7 @@ Formato **OBRIGATÓRIO** (JSON):
 }}
 """
 
-        model_name = os.getenv("GEMINI_MODEL", "models/gemini-1.5-flash")
+        model_name = os.getenv("GEMINI_MODEL", "models/gemini-2.0-flash")
         if not model_name.startswith("models/"):
             model_name = f"models/{model_name}"
         modelo = genai.GenerativeModel(model_name)
