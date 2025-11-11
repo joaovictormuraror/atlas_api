@@ -10,7 +10,7 @@ API em Flask que gera roteiros personalizados com Gemini e mantém um pequeno CR
 ## Passo a passo para rodar localmente
 1. **Clone / atualize o projeto**
    ```bash
-   git clone (https://github.com/joaovictormuraror/atlas_api)
+   git clone https://github.com/joaovictormuraror/atlas_api
    cd atlas_api
    ```
 2. **Crie e ative o ambiente**
